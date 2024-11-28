@@ -1,0 +1,7 @@
+F:\Program koji ispisuje ASCII kod unetog znaka\Program koji ispisuje ASCII kod unetog znaka\bin\Debug\Program koji ispisuje ASCII kod unetog znaka.exe.config
+F:\Program koji ispisuje ASCII kod unetog znaka\Program koji ispisuje ASCII kod unetog znaka\bin\Debug\Program koji ispisuje ASCII kod unetog znaka.exe
+F:\Program koji ispisuje ASCII kod unetog znaka\Program koji ispisuje ASCII kod unetog znaka\bin\Debug\Program koji ispisuje ASCII kod unetog znaka.pdb
+F:\Program koji ispisuje ASCII kod unetog znaka\Program koji ispisuje ASCII kod unetog znaka\obj\Debug\Program koji ispisuje ASCII kod unetog znaka.csproj.AssemblyReference.cache
+F:\Program koji ispisuje ASCII kod unetog znaka\Program koji ispisuje ASCII kod unetog znaka\obj\Debug\Program koji ispisuje ASCII kod unetog znaka.csproj.CoreCompileInputs.cache
+F:\Program koji ispisuje ASCII kod unetog znaka\Program koji ispisuje ASCII kod unetog znaka\obj\Debug\Program koji ispisuje ASCII kod unetog znaka.exe
+F:\Program koji ispisuje ASCII kod unetog znaka\Program koji ispisuje ASCII kod unetog znaka\obj\Debug\Program koji ispisuje ASCII kod unetog znaka.pdb
